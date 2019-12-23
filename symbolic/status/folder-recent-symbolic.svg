@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   enable-background="new"
+   version="1.1"
+   id="svg2114"
+   sodipodi:docname="folder-recent-symbolic.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/rizvan/.icons/Rubik/symbolic/actions/document-open-recent-symbolic.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata2118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1316"
+     inkscape:window-height="704"
+     id="namedview2116"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="9.888577"
+     inkscape:cy="1.9084408"
+     inkscape:window-x="50"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2114"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true" />
+  <defs
+     id="defs2110">
+    <filter
+       id="a"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend2107" />
+    </filter>
+  </defs>
+  <path
+     d="M 9.1162788,1.4541708 A 6.5116278,6.5116278 0 0 0 2.6046511,7.9657986 H 0.74418601 L 3.5348836,11.686729 6.3255812,7.9657986 H 4.4651161 A 4.6511627,4.6511627 0 0 1 9.1162788,3.3146359 4.6511627,4.6511627 0 0 1 13.767444,7.9657986 4.6511627,4.6511627 0 0 1 9.1162788,12.616961 v 1.860465 A 6.5116278,6.5116278 0 0 0 15.62791,7.9657986 6.5116278,6.5116278 0 0 0 9.1162788,1.4541708 Z M 8.1860463,4.7099848 V 8.6802173 L 11.184189,10.678357 11.699538,9.9044033 9.1162788,8.1816126 V 4.7099848 Z"
+     id="path2112"
+     inkscape:connector-curvature="0"
+     style="fill:#3b9be8;fill-opacity:1;stroke:#357cb7;stroke-width:0.74418604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+</svg>
