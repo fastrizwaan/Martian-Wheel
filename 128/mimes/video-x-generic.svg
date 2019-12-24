@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="video-x-generic.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -61,11 +61,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="73.4873"
-     inkscape:cy="-0.49719195"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="84.055053"
+     inkscape:cy="79.937294"
      inkscape:document-units="px"
-     inkscape:current-layer="g849"
+     inkscape:current-layer="g6278"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -73,11 +73,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="813"
+     inkscape:window-height="427"
+     inkscape:window-x="342"
+     inkscape:window-y="215"
+     inkscape:window-maximized="0"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
@@ -250,11 +250,11 @@
              id="rect6225"
              style="opacity:1;fill:#110000;fill-opacity:1;stroke:#5a5a5a;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <g
-             style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
              transform="matrix(0.01066862,0,0,0.01066862,136.48651,150.59779)"
              id="g6229">
             <path
-               style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+               style="fill:#ffffff;fill-opacity:1;stroke:none"
                inkscape:connector-curvature="0"
                d="m 61.3,126.5 c 0,-104.1 74.4,-146.2 163.6,-94.2 l 646.9,374.3 c 89.2,52.1 89.2,136.3 0,188.4 L 224.9,969.2 C 135.7,1018.8 61.3,976.6 61.3,875 Z"
                id="path6227" />
