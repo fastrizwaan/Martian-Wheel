@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
    viewBox="0 0 16 16"
-   sodipodi:docname="image-x-generic.svg"
+   sodipodi:docname="folder-pictures-symbolic.svg"
    inkscape:export-filename="/home/rizvan/.icons/Rubik/symbolic/places/folder-documents-symbolic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -133,17 +133,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="10.085692"
-     inkscape:cy="-19.900744"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.8045169"
+     inkscape:cy="10.06657"
+     inkscape:current-layer="g1170"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="700"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -212,33 +212,34 @@
        id="g1170"
        transform="matrix(2.1334485,0,0,2.2740175,-139.09705,-43.648173)">
       <rect
-         rx="0.50634557"
-         ry="0.50468075"
-         y="19.363344"
-         x="65.367264"
-         height="6.6967244"
-         width="7.1615043"
+         rx="0.49808764"
+         ry="0.49644998"
+         y="19.417952"
+         x="65.425659"
+         height="6.5875082"
+         width="7.0447083"
          id="rect14801"
-         style="fill:#9ce0ff;fill-opacity:1;stroke:#62a2dd;stroke-width:0.33808926;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="fill:#9ce0ff;fill-opacity:1;stroke:#62a2dd;stroke-width:0.44730541;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
       <ellipse
-         style="fill:#ffff00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.33808926;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffff00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.33257541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1372"
-         cx="68.14341"
-         cy="21.131638"
-         rx="0.82074761"
-         ry="0.81725454" />
+         cx="68.156532"
+         cy="21.157406"
+         rx="0.80736214"
+         ry="0.80392605" />
       <g
-         transform="matrix(0.29839591,0,0,0.29741482,44.131321,-7.920139)"
-         id="g881">
+         transform="matrix(0.29352941,0,0,0.29256432,44.536054,-7.4205679)"
+         id="g881"
+         style="stroke-width:1.52639759;stroke-miterlimit:0;stroke-dasharray:none">
         <path
            id="path10"
            d="m 81.717936,107.20392 -4.20356,-4.20355 c -0.41341,-0.41336 -1.07193,-0.41336 -1.48534,0 l -4.86202,4.86213 v 5.3385 c 0,0.0701 0.007,0.14011 0.021,0.21017 0.098,0.4834 0.51847,0.84073 1.02989,0.84073 h 3.50293 c 0.28023,0 0.54648,-0.1121 0.74268,-0.30824 l 5.2544,-5.2544 c 0.41329,-0.41341 0.41329,-1.07199 0,-1.48534 z"
-           style="fill:#66b31b;stroke:#5f961d;stroke-width:1.1348896;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#66b31b;stroke:#5f961d;stroke-width:1.52639759;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            id="path12"
            d="m 89.254165,99.840785 c -0.41342,-0.406363 -1.07193,-0.406363 -1.48534,0 l -4.5118,4.511795 -9.89234,9.89932 h 20.75143 c 0.58153,0 1.05091,-0.46937 1.05091,-1.0509 v -7.4473 z"
-           style="fill:#7bd921;stroke:#5f961d;stroke-width:1.1348896;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#7bd921;stroke:#5f961d;stroke-width:1.52639759;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
       </g>
     </g>

@@ -16,16 +16,11 @@
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-vnd.flatpak.ref.svg">
+   sodipodi:docname="application-vnd.font-fontforge-sfd.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
      id="defs4161">
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern7515-03-7-2"
-       id="pattern17300"
-       patternTransform="matrix(0.91153861,0,0,0.91153861,837.45929,482.99683)" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 8 : 1"
@@ -806,6 +801,17 @@
          height="833.75"
          width="1250" />
     </pattern>
+    <radialGradient
+       gradientTransform="matrix(7.6829724,0,0,7.6829724,-662.10637,415.45345)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient15413"
+       id="radialGradient36302"
+       cx="91.076797"
+       cy="-48.847027"
+       fx="91.076797"
+       fy="-48.847027"
+       r="6.3463898"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -815,9 +821,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="10.595064"
-     inkscape:cy="4.8642636"
-     inkscape:current-layer="g2752"
+     inkscape:cx="12.381552"
+     inkscape:cy="4.1613784"
+     inkscape:current-layer="g17477"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -832,7 +838,11 @@
      inkscape:snap-bbox="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -895,21 +905,41 @@
     <g
        id="g2752"
        transform="matrix(0.15147843,0,0,0.15147843,3.226459,3.1986452)">
-      <rect
-         rx="10.938463"
-         style="fill:url(#pattern17300);fill-opacity:1;stroke:#b29f80;stroke-width:6.61199618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1533"
-         width="87.507706"
-         height="87.507706"
-         x="-12.240845"
-         y="-12.05723"
-         ry="10.938463" />
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="rect852"
-         d="M 17.110064,9.562971 16.926651,33.216157 7.2023826,33.387665 31.292959,61.343412 55.823633,32.531513 46.099371,32.703019 46.282757,9.0498331 Z"
-         style="opacity:1;fill:#9e8b6b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.98900604;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <g
+         id="g17477"
+         transform="translate(-6.1210761,-8.4665716)">
+        <circle
+           r="46.563416"
+           cy="40.163082"
+           cx="37.634163"
+           id="path6479"
+           style="opacity:1;fill:url(#radialGradient36302);fill-opacity:1;fill-rule:nonzero;stroke:#9b9b9b;stroke-width:6.6119957;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="matrix(2.9596357,0,0,2.9596357,125.93403,-32.561442)"
+           id="g1085"
+           style="clip-rule:evenodd;fill-rule:evenodd;stroke:#9b9b9b;stroke-width:0.44369781;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <g
+             style="stroke:#232c31;stroke-width:31.08825684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="matrix(0.0142722,0,0,-0.0142722,-38.440872,30.1798)"
+             id="g1063">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 822,1290 c 96,0 184,-32 228,-87 108,109 209,139 296,139 140,0 184,-89 184,-148 0,-74 -47,-126 -118,-126 -77,0 -39,176 -148,176 -89,0 -163,-235 -200,-440 h 192 c 22,0 26,-16 26,-33 0,-46 -21,-85 -59,-85 h -189 c 0,0 -86.882,-411.191 -151,-668 -86.299,-345.65 -351,-442 -517,-442 -79,0 -163,28 -219,86 -75,-77 -189,-138 -311,-138 -60,0 -160,40 -160,116 0,43 43,108 89,108 81,0 91,-88 182,-88 44,0 74.498,12.138 111,144 80,289 201,882 201,882 H 116 c -23,0 -26,14 -26,29 0,40 15,89 66,89 h 133 c 73,251 235,486 533,486 z M 744,1190 C 603,1190 539,956 508,804 h 334 c 24,92 64,186 107,263 -48,76 -131,123 -205,123 z M 444,-302 c 78,0 140,26 178,162 90,324 190,826 190,826 H 482 C 434.075,464.729 381.246,226.205 334.818,47 303.225,-74.948 276.704,-143.428 249,-201 c 57,-67 131,-101 195,-101 z"
+               style="fill:#232c31;fill-rule:nonzero;stroke:#232c31;stroke-width:31.08825684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path1061" />
+          </g>
+          <g
+             style="fill:#cc4700;fill-opacity:1;stroke:#cc4700;stroke-width:0.58688807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             transform="matrix(0.730257,0.195672,-0.195672,0.730257,-43.211272,-6.06039)"
+             id="g1067">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 28.079,55.651 0.328,1.455 c -0.265,0.06 -0.53,0.12 -0.795,0.179 l -0.328,-1.454 -1.455,0.328 -0.179,-0.795 1.455,-0.329 -0.329,-1.454 0.796,-0.18 0.218,0.968 4.269,-6.756 c -0.257,-0.286 -0.407,-0.668 -0.39,-1.082 0.034,-0.844 0.745,-1.5 1.588,-1.466 0.13,0.005 0.255,0.026 0.373,0.061 l 4.336,-6.862 -0.921,0.208 -0.179,-0.795 1.455,-0.328 -0.328,-1.455 0.795,-0.179 0.328,1.454 1.455,-0.328 0.179,0.795 -1.455,0.329 0.329,1.454 c -0.266,0.06 -0.531,0.12 -0.796,0.18 l -0.195,-0.865 -4.311,6.824 c 0.264,0.287 0.418,0.675 0.402,1.095 -0.034,0.844 -0.745,1.5 -1.589,1.466 C 33,48.114 32.869,48.091 32.745,48.053 l -4.208,6.659 0.818,-0.184 0.179,0.795 z"
+               style="fill:#cc4700;fill-opacity:1;stroke:#cc4700;stroke-width:0.58688807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path1065" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
   <style

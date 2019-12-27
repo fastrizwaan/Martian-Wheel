@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-epub+zip.svg">
+   sodipodi:docname="folder.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -29,7 +29,7 @@
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
     <linearGradient
-       gradientTransform="matrix(0.35021508,0,0,0.34822956,47.049638,-1.1986576)"
+       gradientTransform="matrix(0.35021508,0,0,0.34822956,47.068518,-1.2485591)"
        inkscape:collect="always"
        xlink:href="#linearGradient1040"
        id="linearGradient1042"
@@ -50,16 +50,6 @@
          offset="1"
          id="stop1038" />
     </linearGradient>
-    <inkscape:path-effect
-       effect="bspline"
-       id="path-effect938-1"
-       is_visible="true"
-       weight="33.333333"
-       steps="2"
-       helper_size="0"
-       apply_no_weight="true"
-       apply_with_weight="true"
-       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,9 +58,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="5.2323663"
-     inkscape:cy="9.4276482"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.6829517"
+     inkscape:cy="8.2107172"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -128,9 +118,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#6ab430;fill-opacity:0.98039216;stroke-width:0.83881217;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path2247-1"
-       d="M 7.9998833,13.027708 2.9721102,7.9995567 7.9998833,2.9721587 9.6759569,4.6479127 6.3238219,7.9995567 7.9997114,9.6756668 13.027451,4.6482328 8.647722,0.26846475 c -0.3576531,-0.357953 -0.9377677,-0.357953 -1.2956704,0 L 0.26821329,7.3523078 c -0.3576219,0.3576559 -0.3576219,0.937715 0,1.295656 L 7.3521121,15.731561 c 0.3579533,0.357919 0.9380995,0.357919 1.2956681,0 L 15.731754,8.6467668 c 0.357658,-0.357958 0.357658,-0.938073 0,-1.295656 L 14.703377,6.3230118 7.9998833,13.026592 Z"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       d="M 0.49828158,2.9216839 V 13.078355 c 0,0 0,0.923329 1.07167432,0.923329 H 14.430041 c 0,0 1.071672,0 1.071672,-0.923329 V 4.4770708 c 0,-0.923328 -1.071672,-0.923328 -1.071672,-0.923328 0,0 -6.638678,0.00119 -7.4843136,0 -0.8456356,-0.00129 -0.7402356,-1.5611098 -1.798097,-1.5554117 -0.00878,6.05e-5 -3.5776745,0 -3.5776745,0 0,0 -1.07167432,0 -1.07167432,0.9233528 z"
+       id="path5057-4-3"
+       sodipodi:nodetypes="ccccccczscc"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#linearGradient1042);fill-opacity:1;stroke:#ffb800;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
