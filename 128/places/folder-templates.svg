@@ -94,8 +94,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="91.470297"
-     inkscape:cy="51.918884"
+     inkscape:cx="-6.7866509"
+     inkscape:cy="33.662623"
      inkscape:document-units="px"
      inkscape:current-layer="g849"
      showgrid="false"
@@ -106,7 +106,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="692"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -281,18 +281,18 @@
          clip-path="url(#clipPath12688)"
          transform="matrix(-0.09586353,0,0,0.09586353,253.51683,54.218007)" />
       <g
-         style="stroke-width:4.35820776;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.872"
+         style="stroke-width:4.35820776;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
          transform="matrix(-0.11472606,0,0,0.11472606,117.22831,94.476619)"
          id="g1059">
         <g
            id="g926"
-           style="stroke-width:4.35820776;stroke-miterlimit:4;stroke-dasharray:none">
+           style="stroke-width:4.35820776;stroke-miterlimit:4;stroke-dasharray:none;fill:#7bd921;fill-opacity:1;stroke:#5f961d;stroke-opacity:1">
           <path
              inkscape:connector-curvature="0"
              id="path920"
              transform="matrix(-2.3062183,0,0,2.3062183,532.8925,363.0972)"
              d="M 204.56641,54.890625 123.40625,104.5293 h 81.16016 z M 192.9707,75.849609 v 17.085938 l -27.54101,-0.363281 z"
-             style="fill:#00ff00;stroke:#008000;stroke-width:1.88976376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="fill:#7bd921;stroke:#5f961d;stroke-width:1.88976376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
         </g>
         <g
            style="display:inline;opacity:0.7;stroke-width:5.21574785;stroke-miterlimit:4;stroke-dasharray:none"
