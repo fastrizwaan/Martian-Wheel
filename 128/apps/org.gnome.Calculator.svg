@@ -33,9 +33,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     inkscape:zoom="1"
-     inkscape:cx="263.15201"
-     inkscape:cy="-107.15065"
+     inkscape:zoom="2"
+     inkscape:cx="208.20552"
+     inkscape:cy="-16.088999"
      inkscape:window-x="66"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -124,7 +124,7 @@
            x="107.99998"
            id="tspan1202" /></text>
       <path
-         style="display:inline;opacity:1;fill:#3182e4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         style="display:inline;opacity:1;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
          d="m 108.04004,184 c 4.432,0 8,3.568 8,8 v 84 c 0,4.432 -3.568,8 -8,8 H 60.040039 V 184 Z"
          id="path1520"
          inkscape:connector-curvature="0" />
