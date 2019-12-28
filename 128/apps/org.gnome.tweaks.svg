@@ -30,12 +30,12 @@
      id="namedview35"
      showgrid="false"
      inkscape:zoom="5.6568542"
-     inkscape:cx="95.041253"
-     inkscape:cy="51.376571"
+     inkscape:cx="73.506961"
+     inkscape:cy="75.751851"
      inkscape:window-x="66"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1769" />
+     inkscape:current-layer="g865" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -157,7 +157,7 @@
        style="display:inline"
        id="layer9">
       <g
-         transform="translate(110)"
+         transform="matrix(1.0384615,0,0,1.04,112.35503,-11.36)"
          id="g1769">
         <rect
            style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
@@ -199,8 +199,8 @@
            ry="15.457627"
            transform="scale(-1,1)" />
         <circle
-           cy="172.54237"
-           cx="-190.21948"
+           cy="172.04237"
+           cx="-187.71948"
            id="circle869"
            style="fill:#ffffff;fill-opacity:1;stroke:#deddda;stroke-width:3.14386368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            transform="scale(-1,1)"

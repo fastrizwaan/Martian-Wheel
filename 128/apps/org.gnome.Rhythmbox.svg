@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,13 +39,13 @@
      inkscape:window-height="1010"
      id="namedview69"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="64"
-     inkscape:cy="64"
+     inkscape:zoom="3.6875"
+     inkscape:cx="87.376642"
+     inkscape:cy="30.53167"
      inkscape:window-x="66"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g51" />
+     inkscape:current-layer="g65" />
   <defs
      id="defs45">
     <linearGradient
@@ -147,7 +147,7 @@
        xlink:href="#e"
        id="i"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.19330435,0.05179348,-0.05180435,0.19332609,-47.927382,214.79933)"
+       gradientTransform="matrix(0.22150856,0.05935045,-0.0593629,0.22153348,-54.798933,210.5085)"
        cx="265.282"
        cy="65.436"
        fx="265.282"
@@ -161,13 +161,13 @@
        x2="431.139"
        y2="91.301"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.14435869,0,0,0.14435869,197.7756,-75.581704)" />
+       gradientTransform="matrix(0.16542145,0,0,0.16542145,192.18362,-77.504649)" />
   </defs>
   <g
      transform="translate(0 -172)"
      id="g65">
     <g
-       transform="translate(368)"
+       transform="matrix(1.1290909,0,0,1.08,407.20964,-16.182441)"
        id="g51">
       <rect
          ry="8.695652"
@@ -179,47 +179,54 @@
          style="fill:#deddda;stroke-width:1.0869565;marker:none"
          id="rect49" />
     </g>
-    <rect
-       ry="36.95652"
-       rx="36.95652"
-       y="199.14517"
-       x="25.445837"
-       height="73.91304"
-       width="73.91304"
-       style="fill:#5e5c64;stroke-width:1.0869565;marker:none"
-       id="rect53" />
-    <circle
-       style="fill:#241f31;stroke-width:1.0869565;marker:none"
-       cx="62.402359"
-       cy="236.1017"
-       r="30.434782"
-       id="circle55" />
-    <circle
-       cy="236.1017"
-       cx="62.402359"
-       style="fill:#3d3846;stroke-width:1.0869565;marker:none"
-       r="26.086956"
-       id="circle57" />
-    <circle
-       transform="rotate(90)"
-       cy="-62.402359"
-       cx="236.1017"
-       style="fill:url(#h);stroke-width:1.0869565;marker:none"
-       r="23.913044"
-       id="circle59" />
-    <ellipse
-       style="stroke-width:1.0869565;marker:none"
-       cx="62.390396"
-       cy="236.20496"
-       rx="10.881521"
-       ry="10.882608"
-       id="ellipse61" />
-    <circle
-       style="fill:url(#i);stroke-width:1.0869565;marker:none"
-       cx="-0.86977077"
-       cy="244.30367"
-       transform="rotate(-15)"
-       id="ellipse63"
-       r="8.7076082" />
+    <g
+       id="g2802"
+       transform="translate(-0.24024313,2.7057026)">
+      <rect
+         id="rect53"
+         style="fill:#5e5c64;stroke-width:1.24554956;marker:none"
+         width="84.697372"
+         height="84.697372"
+         x="20.053673"
+         y="193.75301"
+         rx="42.348686"
+         ry="42.348686" />
+      <g
+         id="g2793">
+        <circle
+           style="fill:#241f31;stroke-width:1.24554956;marker:none"
+           cx="62.402359"
+           cy="236.1017"
+           r="34.875389"
+           id="circle55" />
+        <circle
+           cy="236.1017"
+           cx="62.402359"
+           style="fill:#3d3846;stroke-width:1.24554956;marker:none"
+           r="29.89319"
+           id="circle57" />
+        <circle
+           transform="rotate(90)"
+           cy="-62.402359"
+           cx="236.1017"
+           style="fill:url(#h);stroke-width:1.24554956;marker:none"
+           r="27.402092"
+           id="circle59" />
+        <ellipse
+           style="stroke-width:1.24554956;marker:none"
+           cx="62.388653"
+           cy="236.22003"
+           rx="12.469197"
+           ry="12.470443"
+           id="ellipse61" />
+        <circle
+           style="fill:url(#i);stroke-width:1.24554956;marker:none"
+           cx="-0.8753438"
+           cy="244.31767"
+           transform="rotate(-15)"
+           id="ellipse63"
+           r="9.9780979" />
+      </g>
+    </g>
   </g>
 </svg>
