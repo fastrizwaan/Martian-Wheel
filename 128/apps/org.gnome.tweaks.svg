@@ -25,17 +25,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1854"
-     inkscape:window-height="1010"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="73.506961"
-     inkscape:cy="75.751851"
-     inkscape:window-x="66"
-     inkscape:window-y="33"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="71.189588"
+     inkscape:cy="29.239779"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g865" />
+     inkscape:current-layer="g865"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -174,21 +180,6 @@
          id="g865"
          style="fill:#c0bfbc;fill-opacity:1;stroke:#9a9996;stroke-opacity:1">
         <rect
-           ry="15.457627"
-           rx="15.457627"
-           y="197.08475"
-           x="174.84746"
-           height="30.915255"
-           width="59.152538"
-           id="rect861"
-           style="fill:#c0bfbc;fill-opacity:1;stroke:none;stroke-width:3.02362204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:#deddda;stroke-width:3.29123259;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="circle863"
-           cx="217.21947"
-           cy="212.54237"
-           r="15.104383" />
-        <rect
            style="fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:3.02362204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect867"
            width="59.152538"
@@ -199,12 +190,27 @@
            ry="15.457627"
            transform="scale(-1,1)" />
         <circle
-           cy="172.04237"
-           cx="-187.71948"
+           cy="172.54237"
+           cx="-190.30508"
            id="circle869"
-           style="fill:#ffffff;fill-opacity:1;stroke:#deddda;stroke-width:3.14386368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#3584e4;stroke-width:1.51181102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            transform="scale(-1,1)"
-           r="14.428067" />
+           r="13.93898" />
+        <rect
+           ry="15.457627"
+           rx="15.457627"
+           y="197.08475"
+           x="174.84746"
+           height="30.915255"
+           width="59.152538"
+           id="rect836"
+           style="fill:#c0bfbc;fill-opacity:1;stroke:none;stroke-width:3.02362204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="13.93898"
+           style="fill:#ffffff;fill-opacity:1;stroke:#c0bfbc;stroke-width:1.51181102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle838"
+           cx="218.54236"
+           cy="212.54237" />
       </g>
     </g>
   </g>
