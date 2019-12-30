@@ -1013,16 +1013,6 @@
        is_visible="true"
        id="path-effect4228-4-3"
        effect="bspline" />
-    <linearGradient
-       gradientTransform="matrix(0.60672378,0,0,0.60672379,9.5088639,-0.67613708)"
-       gradientUnits="userSpaceOnUse"
-       y2="-53.72718"
-       x2="89.257553"
-       y1="-46.87611"
-       x1="86.243759"
-       id="linearGradient7165"
-       xlink:href="#linearGradient1040"
-       inkscape:collect="always" />
     <radialGradient
        gradientTransform="matrix(0.57153263,0,0,0.57153263,25.782425,-2.6282566)"
        gradientUnits="userSpaceOnUse"
@@ -1907,10 +1897,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="61.529842"
-     inkscape:cy="68.107095"
+     inkscape:cx="83.805886"
+     inkscape:cy="-11.963674"
      inkscape:document-units="px"
-     inkscape:current-layer="g4250-0"
+     inkscape:current-layer="g4250"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1918,11 +1908,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1308"
-     inkscape:window-height="704"
-     inkscape:window-x="58"
+     inkscape:window-width="931"
+     inkscape:window-height="1016"
+     inkscape:window-x="989"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
@@ -2137,40 +2127,7 @@
              style="fill:#338000;fill-opacity:1;stroke:#9b9b9b;stroke-width:0.73274052;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <g
-           transform="matrix(0.5,0,0,0.5,9.2082126,-112.2512)"
-           id="layer1-0"
-           inkscape:label="Capa 1">
-          <g
-             id="g849-5">
-            <g
-               transform="matrix(2,0,0,2,-56.039075,215.1337)"
-               id="g4250-9">
-              <g
-                 style="stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-                 transform="matrix(1.0740937,0,0,1.0740937,26.701866,6.769539)"
-                 id="g4626-2">
-                <g
-                   transform="matrix(1.0006197,0,0,1.0006197,-0.17507464,0.01671585)"
-                   id="g1053-4">
-                  <text
-                     xml:space="preserve"
-                     style="font-style:normal;font-weight:normal;font-size:5.64541483px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient7165);fill-opacity:1;stroke:#d28600;stroke-width:0.15875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     x="61.568016"
-                     y="-29.059677"
-                     id="text1877"
-                     transform="scale(1.0317817,0.96919726)"><tspan
-                       sodipodi:role="line"
-                       id="tspan1875"
-                       x="61.568016"
-                       y="-29.059677"
-                       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Bold';fill:url(#linearGradient7165);fill-opacity:1;stroke:#d28600;stroke-width:0.15875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">?</tspan></text>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-        <g
-           transform="matrix(0.5,0,0,0.5,44.42372,-116.95957)"
+           transform="matrix(0.46874999,0,0,0.46874999,46.214643,-120.28967)"
            id="layer1-8"
            inkscape:label="Capa 1">
           <g
@@ -2180,7 +2137,7 @@
                id="g4250-0">
               <g
                  style="stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
-                 transform="matrix(1.0740958,0,0,1.0740958,-5.5710847,1.9988334)"
+                 transform="matrix(1.1852092,0,0,1.1852092,-12.177803,13.713894)"
                  id="g4626-0">
                 <g
                    transform="matrix(1.0006197,0,0,1.0006197,-0.17507464,0.01671585)"

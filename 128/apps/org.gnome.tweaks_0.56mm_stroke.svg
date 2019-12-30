@@ -14,7 +14,7 @@
    id="svg11300"
    height="128"
    width="128"
-   sodipodi:docname="org.gnome.tweaks.svg"
+   sodipodi:docname="org.gnome.tweaks_0.56mm_stroke.svg"
    inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,9 +29,9 @@
      inkscape:window-height="1016"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="89.19885"
-     inkscape:cy="94.55548"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="96.8997"
+     inkscape:cy="72.281656"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -164,9 +164,10 @@
        id="layer9">
       <g
          transform="matrix(1.0384615,0,0,1.04,112.35503,-11.36)"
-         id="g1769">
+         id="g1769"
+         style="stroke:#cccccc;stroke-width:2.0366372;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+           style="display:inline;opacity:1;fill:#f6f5f4;fill-opacity:1;stroke:#cccccc;stroke-width:2.0366372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
            id="rect1711"
            width="104"
            height="100"
