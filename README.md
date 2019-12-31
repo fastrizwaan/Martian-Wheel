@@ -15,16 +15,17 @@ The Icons are designed at 128 pixels, All of the SVGs are editable. I have chose
 
 ###Installation:
 
-`mkdir ~/.icons
+`
+mkdir ~/.icons
 cd ~/.icons
 git clone https://github.com/fastrizwaan/Martian-Wheel.git
-
 gnome-tweaks ; # choose theme
 `
 
 
 ###For Updates:
 
-`cd ~/.icons
+`
+cd ~/.icons
 git pull
 `
