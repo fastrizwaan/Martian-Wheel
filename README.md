@@ -26,6 +26,6 @@ gnome-tweaks ; # choose theme
 ### For Updates:
 
 ```
-cd ~/.icons
+cd ~/.icons/Martian-Wheel
 git pull
 ```
