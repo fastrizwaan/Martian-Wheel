@@ -13,19 +13,19 @@ Martian wheel Icons have simple radial and diagonal gradients and 2-3 colors and
 
 The Icons are designed at 128 pixels, All of the SVGs are editable. I have chosen GPL3 license for these Icons, There are some CC 4.0 icons which can be one-way licensed to GPL3.
 
-###Installation:
+### Installation:
 
-`
+```
 mkdir ~/.icons
 cd ~/.icons
 git clone https://github.com/fastrizwaan/Martian-Wheel.git
 gnome-tweaks ; # choose theme
-`
+```
 
 
-###For Updates:
+### For Updates:
 
-`
+```
 cd ~/.icons
 git pull
-`
+```
