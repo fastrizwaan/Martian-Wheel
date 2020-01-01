@@ -14,7 +14,7 @@
    id="svg11300"
    height="128"
    width="128"
-   sodipodi:docname="transmission_test.svg"
+   sodipodi:docname="transmission.svg"
    inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,9 +29,9 @@
      inkscape:window-height="1016"
      id="namedview915"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="71.790744"
-     inkscape:cy="54.800231"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="91.92795"
+     inkscape:cy="6.9015936"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -52,18 +52,6 @@
      id="title4162">Adwaita Icon Template</title>
   <defs
      id="defs3">
-    <linearGradient
-       id="linearGradient1891"
-       inkscape:collect="always">
-      <stop
-         id="stop1887"
-         offset="0"
-         style="stop-color:#f0f2ef;stop-opacity:1" />
-      <stop
-         id="stop1889"
-         offset="1"
-         style="stop-color:#cdd1c8;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1832">
@@ -1238,22 +1226,13 @@
        xlink:href="#linearGradient853"
        id="linearGradient1845"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.54603138,0,0,0.53803551,216.92163,80.086527)"
+       gradientTransform="matrix(0.54603138,0,0,0.53803551,216.92163,87.380374)"
        x1="-222.30669"
        y1="152.07419"
        x2="-222.30669"
        y2="138.07788" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1891"
-       id="linearGradient1885"
-       x1="-57.902512"
-       y1="1045.7922"
-       x2="-29.977882"
-       y2="1001.0649"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       gradientTransform="matrix(1.0509512,0,0,1.0509541,-65.861231,1014.291)"
+       gradientTransform="matrix(1.0509512,0,0,1.0509541,-65.861231,1014.2913)"
        inkscape:collect="always"
        xlink:href="#linearGradient5898"
        id="linearGradient5904"
@@ -1271,7 +1250,7 @@
          id="stop5900" />
       <stop
          id="stop5906"
-         offset="0.36509839"
+         offset="0.49188858"
          style="stop-color:#ef0000;stop-opacity:1" />
       <stop
          style="stop-color:#aa0000;stop-opacity:1"
@@ -1358,21 +1337,21 @@
        transform="matrix(0.42368758,0,0,0.423689,-89.990208,991.05853)"
        style="fill:url(#linearGradient1804);fill-opacity:1;stroke:#ececec;stroke-width:6.00545063;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:0.903;fill:url(#linearGradient1885);fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2.54443908;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45668983;stroke-opacity:1"
+       style="opacity:0.903;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:2.67901492;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:26.45668983;stroke-opacity:1"
        id="rect1873"
-       width="41.589848"
-       height="44.982555"
-       x="-61.389988"
-       y="1001.0649"
-       rx="5.088871"
-       ry="5.0888853" />
+       width="43.789539"
+       height="47.361691"
+       x="-62.48983"
+       y="999.87537"
+       rx="5.3580222"
+       ry="5.3580375" />
     <rect
        style="opacity:1;fill:url(#linearGradient5904);fill-opacity:1;stroke:none;stroke-width:0.12722196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5224"
        width="32.698463"
        height="6.3697443"
        x="-56.944141"
-       y="1019.0346"
+       y="1019.0342"
        rx="5.2714815"
        ry="2.0866237" />
     <g
@@ -1381,7 +1360,7 @@
        style="stroke:none">
       <g
          id="g1780"
-         transform="translate(-254.43548,-46.625888)"
+         transform="translate(-254.43581,-46.966818)"
          style="stroke:none">
         <g
            id="g1852"
@@ -1397,9 +1376,9 @@
           </g>
           <g
              id="g1841"
-             transform="matrix(1,0,0,0.82261146,79.669396,28.377588)">
+             transform="matrix(1,0,0,0.82261146,79.669396,22.377588)">
             <rect
-               y="150.1693"
+               y="157.4632"
                x="85.3815"
                height="19.163162"
                width="23.258461"
