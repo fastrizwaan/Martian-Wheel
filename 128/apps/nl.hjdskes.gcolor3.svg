@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1.0"
+   id="svg49"
+   sodipodi:docname="nl.hjdskes.gcolor3.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <title
+     id="title2066">Adwaita Icon Template</title>
+  <metadata
+     id="metadata53">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Adwaita Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="6.2009136"
+     inkscape:cy="44.173989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49" />
+  <defs
+     id="defs21">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         offset="0"
+         stop-color="#241f31"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#3d3846"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#e01b24"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#f8e45c"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#2ec27e"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#57e389"
+         stop-opacity="0"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#c"
+       id="e"
+       x1="127.947"
+       y1="224.053"
+       x2="91.947"
+       y2="188.053"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7856775,0,0,0.7856775,13.292347,-126.11772)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="d">
+      <rect
+         ry="56.25"
+         y="179.75"
+         x="7.75"
+         height="114.375"
+         width="112.5"
+         opacity=".1"
+         fill="#3584e4"
+         stroke-width="4"
+         id="rect18" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient866"
+       x1="84.087273"
+       y1="54.773273"
+       x2="75.934578"
+       y2="46.354748"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="matrix(1.06667,0,0,1.0491803,-4.267,-182.58885)"
+     clip-path="url(#d)"
+     id="g35"
+     style="stroke-width:0.93800002">
+    <path
+       d="m 115.962,206 a 60,60 0 0 1 0,60 L 64,236 Z"
+       id="path23"
+       inkscape:connector-curvature="0"
+       style="fill:#3584e4" />
+    <path
+       d="M 115.962,266 A 60,60 0 0 1 64,296 v -60 z"
+       id="path25"
+       inkscape:connector-curvature="0"
+       style="fill:#a347ba" />
+    <path
+       d="m 64,176 a 60,60 0 0 1 51.962,30 L 64,236 Z"
+       id="path27"
+       inkscape:connector-curvature="0"
+       style="fill:#33d17a" />
+    <path
+       d="M 12.038,206 A 60,60 0 0 1 64,176 v 60 z"
+       id="path29"
+       inkscape:connector-curvature="0"
+       style="fill:#f6d32d" />
+    <path
+       d="m 12.038,266 a 60,60 0 0 1 0,-60 L 64,236 Z"
+       id="path31"
+       inkscape:connector-curvature="0"
+       style="fill:#ff7800" />
+    <path
+       d="M 64,296 A 60,60 0 0 1 12.038,266 L 64,236 Z"
+       id="path33"
+       inkscape:connector-curvature="0"
+       style="fill:#ed333b" />
+  </g>
+  <path
+     d="m 89.934576,31.624746 -37.46,37.46 c -3,4.5 -1.5,9 -6,13.5 l 4.5,4.5 c 4.5,-4.5 10.583,-2.95 13.5,-6 l 37.460004,-37.46 z"
+     style="opacity:1;fill:url(#linearGradient866);marker:none;fill-opacity:1"
+     id="path41"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 113.6131,12.40653 a 9.429,9.429 0 0 0 -6.70275,2.808 l -0.004,-0.0045 -9.697503,9.69825 -6.063,-6.06225 c -1.41375,-1.41375 -2.8275,0 -2.8275,0 l -4.48875,4.48875 c 0,0 -1.4145,1.41375 0,2.8275 l 25.455753,25.4565 c 1.4145,1.4145 2.82825,0 2.82825,0 l 4.48875,-4.488 c 1.41375,-1.4145 0,-2.82825 0,-2.82825 l -6.06225,-6.06225 9.64275,-9.64275 0.0555,-0.0555 -10e-4,-0.0015 a 9.4275,9.4275 0 0 0 2.805,-6.705 c 0,-5.208 -4.221,-9.429 -9.4275,-9.429 z"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;fill:url(#e);fill-rule:evenodd;stroke-width:0.75"
+     font-weight="400"
+     overflow="visible"
+     id="path47"
+     inkscape:connector-curvature="0" />
+</svg>

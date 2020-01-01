@@ -8,7 +8,7 @@ Comment=Minimalist and functional icon theme.
 
 Example=folder
 
-Inherits=Adwaita,gnome,hicolor,breeze,
+Inherits=hicolor,Adwaita,gnome,breeze
 
 # KDE COMPATIBILITY
 # -----------------
