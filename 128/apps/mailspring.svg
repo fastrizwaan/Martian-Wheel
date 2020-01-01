@@ -29,9 +29,9 @@
      inkscape:window-height="692"
      id="namedview915"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="30.457126"
-     inkscape:cy="52.954501"
+     inkscape:zoom="4"
+     inkscape:cx="68.852448"
+     inkscape:cy="16.416928"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,7 +47,7 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -1112,25 +1112,31 @@
        id="m-0" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient826">
-      <stop
-         style="stop-color:#5ac8fa;stop-opacity:1"
-         offset="0"
-         id="stop822" />
-      <stop
-         style="stop-color:#53ecc8;stop-opacity:1"
-         offset="1"
-         id="stop824" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient826"
+       xlink:href="#linearGradient-1"
        id="linearGradient1066"
        gradientUnits="userSpaceOnUse"
-       x1="106.07468"
-       y1="127.08832"
-       x2="106.07466"
-       y2="45.013847" />
+       x1="97.066498"
+       y1="123.08469"
+       x2="133.0992"
+       y2="27.998411"
+       gradientTransform="translate(0,-154.08582)" />
+    <linearGradient
+       gradientTransform="matrix(1.1037505,0,0,1.1037536,-115.76628,999.30906)"
+       gradientUnits="userSpaceOnUse"
+       x1="22"
+       y1="0.91782019"
+       x2="22"
+       y2="45.052632"
+       id="linearGradient-1">
+      <stop
+         stop-color="#00FCB4"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#00A1FF"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata4">
@@ -1203,8 +1209,9 @@
          style="fill:url(#linearGradient1066);fill-opacity:1;fill-rule:evenodd;stroke:#f9f9f9;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
          ry="57.054527"
          rx="57.054523"
-         cy="77.042908"
-         cx="116.58422" />
+         cy="-77.042908"
+         cx="116.58422"
+         transform="scale(1,-1)" />
     </g>
     <g
        id="g1876-9"
@@ -1238,9 +1245,9 @@
       </g>
     </g>
     <path
-       d="m -26.239128,1013.0179 c -0.459501,-0.4595 -1.104163,-0.7485 -1.817456,-0.7485 h -25.076901 c -0.712937,0 -1.357775,0.2888 -1.817455,0.7485 -0.492637,0.4878 -0.763968,1.1388 -0.763968,1.8329 v 17.4108 c 0,1.4234 1.15803,2.5814 2.581423,2.5814 h 25.076843 c 1.423394,0 2.581423,-1.158 2.581423,-2.5814 v -17.4108 c 5.9e-5,-0.6941 -0.271272,-1.3451 -0.763909,-1.8329 z m -3.051852,1.4642 c -0.450465,0.4413 -10.558691,10.3481 -11.304054,11.0786 -0.757057,-0.7419 -10.859849,-10.6433 -11.303995,-11.0786 z m 1.603179,17.7795 c 0,0.2034 -0.165432,0.3688 -0.368783,0.3688 h -25.076901 c -0.20335,0 -0.368782,-0.1654 -0.368782,-0.3688 v -16.2526 l 12.132871,11.891 c 0.429204,0.4206 1.117689,0.4224 1.548725,0 l 12.13287,-11.891 z"
-       id="path2"
-       style="fill:#f9f9f9;stroke:none;stroke-width:0.05906209;fill-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:1.10375202"
+       d="m -35.910115,1023.7064 9.140982,11.6199 h -27.419486 l 9.174189,-11.6621 4.535554,4.4585 z m -4.568761,1.628 -13.709743,-13.4776 h 27.419486 z m 6.157767,-2.5562 8.713818,-9.0622 v 19.7512 z m -12.431717,-0.3485 -8.830005,11.0375 v -19.7512 z"
+       id="path29" />
   </g>
 </svg>
