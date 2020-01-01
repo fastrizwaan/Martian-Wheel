@@ -16,7 +16,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="video-x-matroska.svg">
+   sodipodi:docname="video-webm.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -18004,15 +18004,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2785"
-       id="linearGradient2741"
-       x1="77.080276"
-       y1="-27.1448"
-       x2="77.232071"
-       y2="-31.179695"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2785"
        id="linearGradient2749"
        x1="74.321655"
        y1="-32.636848"
@@ -18027,11 +18018,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-81.242712"
-     inkscape:cy="11.836554"
+     inkscape:zoom="1"
+     inkscape:cx="38.488284"
+     inkscape:cy="41.399848"
      inkscape:document-units="px"
-     inkscape:current-layer="g4250"
+     inkscape:current-layer="g2935"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -18261,7 +18252,7 @@
            id="g2935"
            transform="translate(0,-0.26458334)">
           <path
-             style="fill:url(#linearGradient2741);stroke:none;stroke-width:0.01072609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+             style="fill:#2e5b03;stroke:none;stroke-width:0.01072609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.69411767"
              sodipodi:nodetypes="csssscc"
              d="m 74.500584,-31.324767 v 3.785681 c 0,0.261338 0.21611,0.47321 0.482674,0.47321 h 5.470308 c 0.266564,0 0.482674,-0.211872 0.482674,-0.47321 v -3.785681 z"
              id="path2"
