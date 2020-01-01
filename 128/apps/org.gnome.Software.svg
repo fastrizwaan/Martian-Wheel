@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="931"
-     inkscape:window-height="1010"
+     inkscape:window-height="704"
      id="namedview21"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-45.219983"
-     inkscape:cy="17.059509"
+     inkscape:cx="55.821869"
+     inkscape:cy="13.947999"
      inkscape:window-x="58"
-     inkscape:window-y="33"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer9"
      inkscape:snap-bbox="true"
@@ -544,6 +544,37 @@
       <g
          transform="rotate(-30,403.50258,307.81151)"
          id="g1710" />
+      <g
+         id="g940"
+         style="fill:#b3b3b3;stroke:#b3b3b3"
+         transform="translate(0,0.68370873)">
+        <g
+           id="g938"
+           style="fill:#b3b3b3;stroke:#b3b3b3">
+          <path
+             inkscape:connector-curvature="0"
+             id="path928"
+             d="m 12.374418,198.90301 v 52.20492 24.95021 1.26004 h 0.131218 c 0.667126,3.34282 3.931707,5.86863 7.890612,5.86863 H 108.6364 c 3.95895,0 7.22346,-2.52581 7.89063,-5.86863 h 0.13118 v -1.26004 -24.95021 -52.20492 z"
+             style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:5.71620893;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3"
+             transform="matrix(0.99923866,0,0,0.99923866,0.05401199,3.81776)"
+             id="g934">
+            <circle
+               r="4.5116601"
+               cy="200.55772"
+               cx="49.82309"
+               id="circle930"
+               style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:3.60932803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <circle
+               style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:3.60932803;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle932"
+               cx="78.19825"
+               cy="200.55772"
+               r="4.5116601" />
+          </g>
+        </g>
+      </g>
       <g
          id="g1224">
         <g

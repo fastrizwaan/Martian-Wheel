@@ -25,17 +25,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1854"
-     inkscape:window-height="1010"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview74"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="98.472467"
-     inkscape:cy="53.365529"
-     inkscape:window-x="66"
-     inkscape:window-y="33"
+     inkscape:zoom="1"
+     inkscape:cx="64.528693"
+     inkscape:cy="76.079048"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g1245" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -242,6 +242,15 @@
      style="display:inline"
      id="layer1">
     <rect
+       style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6732283"
+       id="rect894"
+       width="104"
+       height="104.0416"
+       x="12"
+       y="184.69849"
+       rx="8"
+       ry="8" />
+    <rect
        ry="8"
        rx="8"
        y="184"
@@ -426,6 +435,32 @@
              id="rect1949"
              style="opacity:0.35;vector-effect:none;fill:#1c71d8;fill-opacity:0.20331953;stroke:none;stroke-width:1.05300307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
+      </g>
+    </g>
+    <g
+       id="g892"
+       transform="translate(0,0.6743259)"
+       style="fill:#b3b3b3;stroke:#b3b3b3">
+      <g
+         transform="translate(-51.90243,4)"
+         id="g882"
+         style="fill:#b3b3b3;stroke:#b3b3b3">
+        <use
+           clip-path="url(#clipPath9424)"
+           style="display:inline;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.5;enable-background:new"
+           height="100%"
+           width="100%"
+           transform="matrix(2,0,0,2.3251222,-2.606526,-303.66593)"
+           id="use878"
+           xlink:href="#g1069"
+           y="0"
+           x="0" />
+        <circle
+           r="26"
+           style="opacity:1;fill:#b3b3b3;fill-opacity:0.8410042;stroke:#b3b3b3;stroke-width:3.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle880"
+           cx="79.902443"
+           cy="228.00002" />
       </g>
     </g>
     <rect

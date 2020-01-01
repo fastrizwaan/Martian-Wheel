@@ -25,17 +25,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1854"
-     inkscape:window-height="1010"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview44"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="61.684271"
-     inkscape:cy="83.483119"
-     inkscape:window-x="66"
-     inkscape:window-y="33"
+     inkscape:zoom="1"
+     inkscape:cx="42.597988"
+     inkscape:cy="14.913903"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g859" />
+     inkscape:current-layer="g1451" />
   <title
      id="title4162">Adwaita Icon Template</title>
   <defs
@@ -216,6 +216,15 @@
       <g
          id="g1451"
          transform="matrix(1.0465117,0,0,1.0465117,-4.9682862,-13.841187)">
+        <rect
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.01129821px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+           id="rect847"
+           width="112"
+           height="86"
+           x="8"
+           y="197.06261"
+           rx="7.9999995"
+           ry="7.999999" />
         <rect
            transform="translate(0,168.38352)"
            ry="7.999999"

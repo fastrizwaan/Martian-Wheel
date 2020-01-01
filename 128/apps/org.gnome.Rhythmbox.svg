@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1854"
-     inkscape:window-height="1010"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview69"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="87.376642"
-     inkscape:cy="30.53167"
-     inkscape:window-x="66"
-     inkscape:window-y="33"
+     inkscape:zoom="0.5"
+     inkscape:cx="71.569516"
+     inkscape:cy="25.165839"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g65" />
+     inkscape:current-layer="g51" />
   <defs
      id="defs45">
     <linearGradient
@@ -169,6 +169,15 @@
     <g
        transform="matrix(1.1290909,0,0,1.08,407.20964,-16.182441)"
        id="g51">
+      <rect
+         id="rect848"
+         style="fill:#b3b3b3;stroke-width:1.0869565;marker:none"
+         width="95.652176"
+         height="100"
+         x="-353.42374"
+         y="186.75375"
+         rx="8.695652"
+         ry="8.695652" />
       <rect
          ry="8.695652"
          rx="8.695652"

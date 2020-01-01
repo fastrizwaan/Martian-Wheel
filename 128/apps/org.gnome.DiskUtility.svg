@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="692"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview66"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="85.423523"
-     inkscape:cy="83.863906"
-     inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:zoom="1"
+     inkscape:cx="59.532782"
+     inkscape:cy="14.545621"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9" />
   <title
@@ -305,6 +305,15 @@
          cx="32.500057"
          id="path907"
          style="opacity:0.05;fill:#ac1d2e;fill-opacity:1;stroke:none;stroke-width:0.01114019px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
+      <rect
+         style="display:inline;opacity:1;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+         id="rect867"
+         width="80"
+         height="104"
+         x="24"
+         y="180.6875"
+         rx="8"
+         ry="8.4571428" />
       <rect
          ry="8.4571428"
          rx="8"

@@ -36,13 +36,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1016"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview38"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="-12.83564"
-     inkscape:cy="39.351377"
+     inkscape:zoom="1"
+     inkscape:cx="77.56629"
+     inkscape:cy="12.45302"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -147,6 +147,15 @@
      transform="translate(0,-172)">
     <g
        id="layer9">
+      <rect
+         id="rect841"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="7.8389463"
+         rx="7.851336"
+         y="190.57594"
+         x="14.766599"
+         height="94.067352"
+         width="102.06736" />
       <rect
          width="102.06736"
          height="94.067352"

@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="692"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="75.732714"
-     inkscape:cy="31.591326"
-     inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:zoom="1"
+     inkscape:cx="89.927502"
+     inkscape:cy="25.588224"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9" />
   <title
@@ -301,6 +301,17 @@
          clip-path="url(#clipPath2213)"
          id="g8055"
          style="display:inline;enable-background:new" />
+      <rect
+         transform="scale(-1)"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:13.71876526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+         id="rect860"
+         width="88"
+         height="108"
+         x="-108"
+         y="-288.70712"
+         rx="8"
+         ry="8"
+         clip-path="none" />
       <rect
          clip-path="none"
          ry="8"

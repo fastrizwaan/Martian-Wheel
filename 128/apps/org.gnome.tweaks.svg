@@ -25,13 +25,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1016"
+     inkscape:window-width="1308"
+     inkscape:window-height="704"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="89.19885"
-     inkscape:cy="94.55548"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="91.708457"
+     inkscape:cy="47.923832"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -162,6 +162,20 @@
     <g
        style="display:inline"
        id="layer9">
+      <g
+         id="g836"
+         transform="matrix(1.0384615,0,0,1.04,112.35503,-10.68924)"
+         style="fill:#b3b3b3">
+        <rect
+           ry="8"
+           rx="8"
+           y="184"
+           x="-98"
+           height="100"
+           width="104"
+           id="rect834"
+           style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+      </g>
       <g
          transform="matrix(1.0384615,0,0,1.04,112.35503,-11.36)"
          id="g1769">
