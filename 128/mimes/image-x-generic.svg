@@ -7094,8 +7094,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="50.190671"
-     inkscape:cy="49.437073"
+     inkscape:cx="67.164082"
+     inkscape:cy="34.298675"
      inkscape:document-units="px"
      inkscape:current-layer="g1170-7"
      showgrid="false"
@@ -7332,14 +7332,14 @@
              id="g1170-7"
              style="stroke-width:0.22575562;stroke-miterlimit:4;stroke-dasharray:none">
             <rect
-               style="fill:#9ce0ff;fill-opacity:1;stroke:#62a2dd;stroke-width:0.22575562;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+               style="fill:#9ce0ff;fill-opacity:1;stroke:#62a2dd;stroke-width:0.22573674;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
                id="rect14801-5"
-               width="7.257504"
-               height="6.8088808"
-               x="65.416985"
-               y="19.372219"
-               ry="0.51313311"
-               rx="0.51313311" />
+               width="7.2576232"
+               height="6.8076305"
+               x="65.416977"
+               y="19.373478"
+               ry="0.51303887"
+               rx="0.51314151" />
             <ellipse
                ry="0.83094192"
                rx="0.83174974"
@@ -7349,7 +7349,7 @@
                style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.22575562;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <g
                id="g881-5"
-               transform="matrix(0.3023959,0,0,0.3023959,43.896372,-8.3682066)"
+               transform="matrix(0.30240085,0,0,0.30234036,43.89601,-8.3618518)"
                style="stroke-width:0.74655646;stroke-miterlimit:4;stroke-dasharray:none">
               <path
                  inkscape:connector-curvature="0"
