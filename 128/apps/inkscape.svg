@@ -29,13 +29,13 @@
      inkscape:window-height="704"
      id="namedview915"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="107.263"
-     inkscape:cy="-30.716424"
+     inkscape:zoom="1"
+     inkscape:cx="5.1424983"
+     inkscape:cy="21.565401"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1132"
+     inkscape:current-layer="inkscape-logo"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
@@ -1512,6 +1512,20 @@
                d="m 145.99237,21.376936 c 1.70092,0.01447 6.36164,5.782192 10.51997,10.101677 1.16966,1.569454 -0.45243,3.177989 -0.45243,3.177989 l -8.70968,-4.767052 -3.84595,5.221386 -3.39301,-5.106767 -2.0369,7.944627 -5.99473,-3.631908 1.58396,-2.043812 9.38772,-9.646929 c 0.7201,-0.73406 1.27153,-1.261515 2.94102,-1.24852 z"
                style="fill:url(#linearGradient2721);fill-opacity:1;fill-rule:evenodd"
                inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="matrix(0.16212581,0,0,0.16428658,-58.547517,2.7387871e-4)"
+             id="inkscape-logo">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 494.91494,238.6 c 3.59,2.23 57.89,13.26 71.16,15.46 4.6,0.97 1.34,5.71 -5,8.91 -14.3,3.8 -83.66,-24.37 -66.16,-24.37 z"
+               id="path4" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 216.63,37.47 53.15,53.98 c 5.04,5.15 4.97,15.13 2.15,18 L 245.54,88.34 240.35,119.6 218.3,107.96 182.99,130.27 171.3,83.24 152.33,116.06 h -29 c -11.82,0 -13.21,-15 -2.47,-25.74 18.76,-20.25 40.29,-40.89 51.99,-52.85 11.76,-12.02 32.25,-11.68 43.78,0 z"
+               id="path6" />
           </g>
         </g>
       </g>
