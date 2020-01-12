@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="text-x-vala.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -14986,11 +14986,12 @@
     <radialGradient
        r="12.672"
        gradientTransform="matrix(0,3.5438292,-4.3508083,0,142.84854,116.31868)"
-       cx="6.73"
-       cy="9.9569998"
+       cx="11.04153"
+       cy="10.091122"
        gradientUnits="userSpaceOnUse"
-       fx="6.1999998"
-       id="d">
+       fx="11.04153"
+       id="d"
+       fy="10.091122">
       <stop
          id="stop1300"
          offset="0"
@@ -15016,11 +15017,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="135.6322"
-     inkscape:cy="21.218143"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="53.961818"
+     inkscape:cy="123.28725"
      inkscape:document-units="px"
-     inkscape:current-layer="g4250"
+     inkscape:current-layer="g5782"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -15029,7 +15030,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="931"
-     inkscape:window-height="1016"
+     inkscape:window-height="708"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -15257,7 +15258,7 @@
            id="g5782"
            transform="matrix(0.49090907,0,0,0.45454544,28.930909,-100.66449)">
           <rect
-             style="color:#000000;fill:url(#d);stroke-width:0.37281749;stroke-miterlimit:4;stroke-dasharray:none"
+             style="color:#000000;fill:#50446b;stroke-width:0.37281749;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
              id="rect1319"
              x="91.942719"
              y="147.90729"
