@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   sodipodi:docname="org.gnome.Empathy.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="63.951445"
+     inkscape:cy="73.407697"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g834"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true" />
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient974">
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0"
+         id="stop962" />
+      <stop
+         id="stop964"
+         offset="0.04166667"
+         style="stop-color:#f6f5f4;stop-opacity:1" />
+      <stop
+         style="stop-color:#d5d3cf;stop-opacity:1"
+         offset="0.08333334"
+         id="stop966" />
+      <stop
+         id="stop968"
+         offset="0.91666669"
+         style="stop-color:#deddda;stop-opacity:1" />
+      <stop
+         style="stop-color:#f6f5f4;stop-opacity:1"
+         offset="0.95833331"
+         id="stop970" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop972" />
+    </linearGradient>
+    <linearGradient
+       y2="44"
+       x2="464"
+       y1="44"
+       x1="48"
+       gradientTransform="matrix(0.25,0,0,0.25,-110,225)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1747"
+       xlink:href="#linearGradient974" />
+    <clipPath
+       id="clipPath1784"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="14"
+         rx="14"
+         y="202"
+         x="36"
+         height="28"
+         width="59.999996"
+         id="rect1786"
+         style="opacity:1;vector-effect:none;fill:#3584e4;fill-opacity:1;stroke:none;stroke-width:0.85391253;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>GNOME Design Team</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:relation />
+        <dc:language />
+        <dc:coverage />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-172)"
+     style="display:inline"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="layer9">
+      <g
+         transform="matrix(1.9285714,0,0,1.9285714,-117.12848,172.28571)"
+         id="g834">
+        <rect
+           id="rect6"
+           transform="matrix(0,-1,-1,0,0,0)"
+           ry="6.2222223"
+           rx="6.2222223"
+           y="-122.22222"
+           x="-49"
+           height="56"
+           width="44"
+           style="opacity:0.2" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2"
+           d="m 101.18519,48.037026 h 12.96296 V 61 Z"
+           style="opacity:0.9;fill:#e6e6e6;fill-opacity:1;stroke-width:1.08024788" />
+        <rect
+           id="rect8"
+           transform="matrix(0,-1,-1,0,0,0)"
+           ry="6.2222223"
+           rx="6.2222223"
+           y="-122.22222"
+           x="-48.549976"
+           height="56"
+           width="44.549976"
+           style="fill:#f6f5f4;fill-opacity:1;stroke-width:1.00623024" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path12"
+           d="m 94.222226,14 c -6.627412,0 -12,5.37259 -12,12 0,6.627412 5.372588,12 12,12 6.627414,0 12.000004,-5.372588 12.000004,-12 0,-6.62741 -5.37259,-12 -12.000004,-12 z"
+           style="fill:#3584e4;fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path16"
+           d="m 88.222226,21 v 4.037037 h 3 V 21 Z m 9,0 v 4.037037 h 3.000004 V 21 Z m 5.000004,6.332031 C 100.33827,29.132315 97.375445,30 94.050351,30 c -3.17592,0 -5.938059,-0.781687 -7.828125,-2.445312 0.967148,2.661878 2.913184,6.47842 8.023438,6.445312 5.110272,-0.03308 7.120936,-3.883169 7.976566,-6.667969 z"
+           style="fill:#ffffff"
+           sodipodi:nodetypes="cccccccccccsccc" />
+        <rect
+           id="rect18"
+           y="18.129999"
+           x="86.612213"
+           height="22.4"
+           width="22.4"
+           style="fill:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path20"
+           d="m 69.023007,4 c -1.5512,0 -2.800781,1.2495812 -2.800781,2.8007812 v 1 C 66.222226,6.2495813 67.471807,5 69.023007,5 h 50.398433 c 1.5512,0 2.80078,1.2495812 2.80078,2.8007812 v -1 C 122.22222,5.2495813 120.97264,4 119.42144,4 Z"
+           style="opacity:0.2;fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
