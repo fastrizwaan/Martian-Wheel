@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="application-x-msi.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -14817,9 +14817,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="83.066144"
-     inkscape:cy="66.245971"
+     inkscape:zoom="0.5"
+     inkscape:cx="-0.96231069"
+     inkscape:cy="87.384962"
      inkscape:document-units="px"
      inkscape:current-layer="g2174"
      showgrid="false"
@@ -14829,9 +14829,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1308"
-     inkscape:window-height="704"
-     inkscape:window-x="58"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
@@ -15055,23 +15055,23 @@
                                  id="g4144">
                                 <path
                                    inkscape:connector-curvature="0"
-                                   style="fill:#efce4a;fill-opacity:1;stroke:#dbba36;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="fill:#f26522;fill-opacity:1;stroke:#f26522;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                                    d="m 147.28248,166.02852 h -5.11175 c -0.34184,0 -0.61913,-0.27729 -0.61913,-0.61913 v -5.11175 c 0,-0.34184 0.27729,-0.61912 0.61913,-0.61912 h 5.11175 c 0.34184,0 0.61912,0.27728 0.61912,0.61912 v 5.11175 c 0,0.34184 -0.27728,0.61913 -0.61912,0.61913 z"
                                    id="path3892" />
                                 <path
                                    inkscape:connector-curvature="0"
-                                   style="fill:#7fabda;fill-opacity:1;stroke:#6b95cc;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="fill:#8dc63f;fill-opacity:1;stroke:#8dc63f;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                                    d="m 155.21998,166.02852 h -5.11175 c -0.34184,0 -0.61913,-0.27729 -0.61913,-0.61913 v -5.11175 c 0,-0.34184 0.27729,-0.61912 0.61913,-0.61912 h 5.11175 c 0.34184,0 0.61912,0.27728 0.61912,0.61912 v 5.11175 c 0,0.34184 -0.27728,0.61913 -0.61912,0.61913 z"
                                    id="path3894" />
                                 <path
                                    inkscape:connector-curvature="0"
-                                   style="fill:#d75a4a;stroke:#c34636;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="fill:#00aeef;stroke:#00aeef;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
                                    d="m 147.28248,173.96601 h -5.11175 c -0.34184,0 -0.61913,-0.27728 -0.61913,-0.61912 v -5.11175 c 0,-0.34184 0.27729,-0.61913 0.61913,-0.61913 h 5.11175 c 0.34184,0 0.61912,0.27729 0.61912,0.61913 v 5.11175 c 0,0.34184 -0.27728,0.61912 -0.61912,0.61912 z"
                                    id="path3896" />
                                 <path
                                    id="path3961"
                                    d="m 155.21998,173.96601 h -5.11175 c -0.34184,0 -0.61913,-0.27728 -0.61913,-0.61912 v -5.11175 c 0,-0.34184 0.27729,-0.61913 0.61913,-0.61913 h 5.11175 c 0.34184,0 0.61912,0.27729 0.61912,0.61913 v 5.11175 c 0,0.34184 -0.27728,0.61912 -0.61912,0.61912 z"
-                                   style="fill:#23a24d;fill-opacity:1;stroke:#0f8e39;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="fill:#ffc20e;fill-opacity:1;stroke:#ffc20e;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                                    inkscape:connector-curvature="0" />
                               </g>
                             </g>
