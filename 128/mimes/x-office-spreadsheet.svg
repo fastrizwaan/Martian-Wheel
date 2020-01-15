@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="x-office-spreadsheet.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -117997,11 +117997,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="87.642912"
-     inkscape:cy="17.283544"
+     inkscape:zoom="0.5"
+     inkscape:cx="141.78712"
+     inkscape:cy="-130.0389"
      inkscape:document-units="px"
-     inkscape:current-layer="g35850"
+     inkscape:current-layer="g6673"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -118009,9 +118009,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1862"
-     inkscape:window-height="1016"
-     inkscape:window-x="58"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
@@ -118307,11 +118307,6 @@
              id="path6669-5"
              d="m 148.14037,-25.87415 h 8.20206"
              style="fill:none;stroke:#2db319;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             id="path3166"
-             d="m 205.46207,-32.990304 h 3.2142 v 3.214198 h -3.2142 z"
-             style="fill:none;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"

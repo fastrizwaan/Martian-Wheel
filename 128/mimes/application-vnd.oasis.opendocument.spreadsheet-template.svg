@@ -117997,9 +117997,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="77.411374"
-     inkscape:cy="35.256385"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="77.068785"
+     inkscape:cy="-107.45488"
      inkscape:document-units="px"
      inkscape:current-layer="g6673"
      showgrid="false"
@@ -118293,11 +118293,6 @@
              id="path6669-5"
              d="m 148.14037,-25.87415 h 8.20206"
              style="fill:#999999;stroke:#666666;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             id="path3166"
-             d="m 205.46207,-32.990304 h 3.2142 v 3.214198 h -3.2142 z"
-             style="fill:none;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
