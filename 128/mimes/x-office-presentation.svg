@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="x-office-presentation.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -46534,9 +46534,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="75.248309"
-     inkscape:cy="-91.25448"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-120.52897"
+     inkscape:cy="-5.9404172"
      inkscape:document-units="px"
      inkscape:current-layer="g6673"
      showgrid="false"
@@ -46546,9 +46546,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1862"
-     inkscape:window-height="1016"
-     inkscape:window-x="58"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
@@ -46799,11 +46799,6 @@
               </g>
             </g>
           </g>
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 192.23292,-32.990306 h 3.2142 v 3.214198 h -3.2142 z"
-             id="path3166" />
           <rect
              style="display:inline;fill:url(#linearGradient9209);fill-opacity:1;stroke:#aeadad;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
              width="7.9372406"

@@ -46490,11 +46490,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="58.164413"
-     inkscape:cy="64.771924"
+     inkscape:zoom="0.5"
+     inkscape:cx="89.237762"
+     inkscape:cy="-84.853988"
      inkscape:document-units="px"
-     inkscape:current-layer="g54865"
+     inkscape:current-layer="g6673"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -46755,11 +46755,6 @@
               </g>
             </g>
           </g>
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 192.23292,-32.990306 h 3.2142 v 3.214198 h -3.2142 z"
-             id="path3166" />
           <rect
              style="display:inline;fill:url(#linearGradient9209);fill-opacity:1;stroke:#aeadad;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
              width="7.9372406"
