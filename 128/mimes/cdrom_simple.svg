@@ -15,7 +15,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="cdrom_simple.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -910,11 +910,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="29.096511"
-     inkscape:cy="65.408778"
+     inkscape:zoom="2"
+     inkscape:cx="21.338358"
+     inkscape:cy="39.214045"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g104087"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -922,11 +922,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1862"
-     inkscape:window-height="1016"
-     inkscape:window-x="58"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="814"
+     inkscape:window-height="431"
+     inkscape:window-x="217"
+     inkscape:window-y="276"
+     inkscape:window-maximized="0"
      units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
@@ -1395,17 +1395,17 @@
       <g
          id="g104055"
          transform="matrix(1.0744374,0,0,1.0744374,-5.8632696,2.3998157)"
-         style="stroke-width:0.20938195;stroke-miterlimit:4;stroke-dasharray:none">
+         style="stroke-width:0.20938195;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7d7ead;stroke-opacity:1">
         <g
            id="g104053"
            transform="matrix(1.0006197,0,0,1.0006197,-0.17507464,0.01671585)"
-           style="stroke-width:0.20925228;stroke-miterlimit:4;stroke-dasharray:none">
+           style="stroke-width:0.20925228;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7d7ead;stroke-opacity:1">
           <circle
              r="3.4638298"
              cy="-30.545929"
              cx="77.835785"
              id="circle104051"
-             style="opacity:1;fill:url(#radialGradient104099);fill-opacity:1;fill-rule:nonzero;stroke:#9b9b9b;stroke-width:0.20925228;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:1;fill:url(#radialGradient104099);fill-opacity:1;fill-rule:nonzero;stroke:#7d7ead;stroke-width:0.20925228;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
       <g
