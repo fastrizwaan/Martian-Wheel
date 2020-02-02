@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 (unknown)"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-music-symbolic.svg"
+   sodipodi:docname="audio-x-generic.svg"
    inkscape:export-filename="/home/shifa/.icons/Rubik/symbolic/actions/document-open-recent-symbolic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -38,15 +38,15 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="4.5112295"
-     inkscape:cy="10.729802"
+     inkscape:zoom="32"
+     inkscape:cx="19.373612"
+     inkscape:cy="9.1244004"
      inkscape:current-layer="g904"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1308"
-     inkscape:window-height="704"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
      inkscape:window-x="58"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -112,7 +112,7 @@
        style="opacity:1;stroke-width:4.61243677;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ff0000;fill-opacity:1;stroke:#c30000;stroke-width:2.30288482;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99111173"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.30288482;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 173.01676,485.46363 c 4.38033,1.17729 7.90536,5.86089 7.90536,10.41051 v 72.12882 c 4.44118,-2.33164 10.14494,-3.2766 16.05836,-1.73732 10.67113,2.78142 17.35736,11.77198 15.07014,20.07677 -2.28812,8.30487 -12.79896,12.94393 -23.4697,10.16251 -8.51327,-2.22007 -14.38109,-8.49862 -15.31715,-15.1198 l -0.26072,-68.16283 -55.33876,-14.87176 v 53.7863 c 4.44117,-2.33147 10.14448,-3.27644 16.05836,-1.73305 10.67066,2.78127 17.35702,11.77191 15.07018,20.07678 -2.28808,8.30479 -12.79962,12.94385 -23.4702,10.16259 -8.51327,-2.22008 -14.3811,-8.49877 -15.31715,-15.12024 l -0.26072,-88.73551 c 0,-3.4118 2.10149,-5.96465 4.94138,-6.44427 l 58.30426,15.11989"
          id="path902" />
     </g>
